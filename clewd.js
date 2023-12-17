@@ -1,6 +1,6 @@
 /*
-* https://rentry.org/teralomaniac_clewd
-* https://github.com/teralomaniac/clewd
+
+
 */
 'use strict';
 
